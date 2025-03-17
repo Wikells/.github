@@ -5,7 +5,7 @@ title: ""
 labels: bug
 assignees: ''
 type: 'bug'
-project: [Wikells/10] 
+projects: [Wikells/10] 
 
 ---
 
