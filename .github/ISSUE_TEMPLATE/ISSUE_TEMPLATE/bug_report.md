@@ -9,7 +9,7 @@ project: 10
 
 ---
 
-## 🐞 Buggrapport
+## 🐞 Buggrapport2
 
 **Beskrivning av buggen:**  
 En kort och tydlig beskrivning av problemet.
