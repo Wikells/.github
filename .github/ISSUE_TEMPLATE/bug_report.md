@@ -5,7 +5,7 @@ title: ""
 labels: bug
 assignees: ''
 type: 'bug'
-projects: [Wikells/projects/10] 
+projects: [10] 
 ---
 
 ## 🐞 Buggrapport
@@ -13,7 +13,8 @@ projects: [Wikells/projects/10]
 **Beskrivning av buggen:**  
 <!-- En kort och tydlig beskrivning av problemet. -->
 
-
+**Kund information(om tillämpligt):**  
+<!-- Lägg till kundnummer, namn. -->
 
 
 **Steg för att återskapa:**  
@@ -40,6 +41,5 @@ projects: [Wikells/projects/10]
 - [ ] Johan
 - [ ] Daniel S
 
-> [!TIP]
-> Glöm ej att inkludera kundnummer
+
 
