@@ -5,14 +5,16 @@ title: ""
 labels: bug
 assignees: ''
 type: 'bug'
-projects: [Wikells/10] 
-
+projects: [Wikells/projects/10] 
 ---
 
 ## 🐞 Buggrapport
 
 **Beskrivning av buggen:**  
-En kort och tydlig beskrivning av problemet.
+<!-- En kort och tydlig beskrivning av problemet. -->
+
+
+
 
 **Steg för att återskapa:**  
 1.  
@@ -20,13 +22,13 @@ En kort och tydlig beskrivning av problemet.
 3.  
 
 **Förväntat beteende:**  
-Vad förväntade du dig skulle hända?
+<!-- Vad förväntade du dig skulle hända? -->
 
 **Faktiskt beteende:**  
-Vad hände istället?
+<!-- Vad hände istället? -->
 
 **Skärmdumpar eller loggar (om tillämpligt):**  
-Lägg till skärmdumpar, felmeddelanden eller loggutdrag som kan hjälpa till att förstå problemet.
+<!-- Lägg till skärmdumpar, felmeddelanden eller loggutdrag som kan hjälpa till att förstå problemet. -->
 
 ### ✅ Testgodkännande
 
@@ -37,3 +39,7 @@ Lägg till skärmdumpar, felmeddelanden eller loggutdrag som kan hjälpa till at
 - [ ] Mikael
 - [ ] Johan
 - [ ] Daniel S
+
+> [!TIP]
+> Glöm ej att inkludera kundnummer
+
