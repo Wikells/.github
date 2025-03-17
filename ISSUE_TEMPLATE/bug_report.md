@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41E Buggrapport"
 about: 'Beskrivning av buggen:'
-title: "BUG \U0001F41B "
+title: ""
 labels: bug
 assignees: ''
 type: 'bug'
