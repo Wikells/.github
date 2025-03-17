@@ -5,7 +5,7 @@ title: "BUG \U0001F41B "
 labels: bug
 assignees: ''
 type: 'bug'
-project: [Wikells/10] 
+project: [Wikells/Wikells Development] 
 
 ---
 
